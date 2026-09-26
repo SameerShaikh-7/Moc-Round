@@ -1,0 +1,20 @@
+{
+  "leave_requests": [
+    {
+      "id": 1,
+      "employeeName": "Sameer Shaikh",
+      "leaveType": "Sick Leave",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-02",
+      "status": "Approved"
+    },
+    {
+      "id": 2,
+      "employeeName": "Sameer Shaikh",
+      "leaveType": "Casual Leave",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-16",
+      "status": "Pending"
+    }
+  ]
+}
