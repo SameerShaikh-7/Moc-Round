@@ -1,0 +1,41 @@
+{
+  "questions": [
+    {
+      "id": "2",
+      "title": "Explain useState with example",
+      "category": "React JS",
+      "difficulty": "Easy",
+      "status": "Solved",
+      "lastPracticed": "2026-09-21",
+      "notes": "Used to manage local component state."
+    },
+    {
+      "id": "3",
+      "title": "What are Closures in JavaScript?",
+      "category": "JavaScript",
+      "difficulty": "Hard",
+      "status": "Solved",
+      "lastPracticed": "2026-10-03",
+      "notes": "A closure gives an inner function access to its outer function scope."
+    },
+    {
+      "title": "What is react ?",
+      "category": "React JS",
+      "difficulty": "Medium",
+      "status": "Not Solved",
+      "lastPracticed": "2026-10-03",
+      "notes": "Detailed answer",
+      "id": "RAamBN2hcCI"
+    },
+    {
+      "title": "What is Virtual Dom ?",
+      "category": "React JS",
+      "difficulty": "Medium",
+      "status": "To Revise",
+      "lastPracticed": "2026-10-03",
+      "notes": "",
+      "id": "8DjwO5plT0A"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
